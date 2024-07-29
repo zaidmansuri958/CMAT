@@ -1,0 +1,8 @@
+{"applicationNumber":"240210046877","candidateName":"BAHAUDDIN RAFIUDDIN MOHAMMAD AJAZ","total":"64.3580627\n Sixty Four point Three Five Eight Zero Six Two Seven Only"}
+{"applicationNumber":"240210041262","candidateName":"KAILA HANI NILESH","total":"65.9356419\n Sixty Five point Nine Three Five Six Four One Nine Only"}
+{"applicationNumber":"240210042324","candidateName":"MUNGRA KRISH PRAVINBHAI","total":"16.4306217\n Sixteen point Four Three Zero Six Two One Seven Only"}
+{"applicationNumber":"240210042829","candidateName":"SHAH HARSH","total":"34.3059016\n Thirty Four point Three Zero Five Nine Zero One Six Only"}
+{"applicationNumber":"240210048267","candidateName":"MANSURI ABUBAKER","total":"21.9411412\n Twenty One point Nine Four One One Four One Two Only"}
+{"applicationNumber":"240210046801","candidateName":"TISHA SHARMA","total":"64.2746743\n Sixty Four point Two Seven Four Six Seven Four Three Only"}
+{"applicationNumber":"240210041930","candidateName":"PRIYANSHI SOLANKI","total":"27.4911112\n Twenty Seven point Four Nine One One One One Two Only"}
+{"applicationNumber":"240210042655","candidateName":"PRIYANSH PANCHAL","total":"Absent\n Absent"}
